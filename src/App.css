@@ -1,0 +1,17 @@
+.App {
+  width:  90%;
+  margin: auto;
+  border: 1px solid #eee;
+  box-shadow: 0 2px 3px #ccc;
+  padding: 16px;
+  text-align: center;
+
+}
+
+/* button {
+  backgroundColor: 'yellow',
+  font: 'inherit',
+  border: '2px solid green',
+  padding: '8px',
+  cursor: 'pointer'
+} */
